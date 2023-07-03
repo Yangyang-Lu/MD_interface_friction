@@ -1,1 +1,2 @@
 # MD_interface_frictioninterface_friction
+用于计算滑动摩擦过程中每个原子的摩擦力
